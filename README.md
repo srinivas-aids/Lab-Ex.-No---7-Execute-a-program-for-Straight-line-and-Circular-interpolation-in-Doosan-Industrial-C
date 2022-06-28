@@ -49,6 +49,8 @@ Linear Interpolation
 Circular Interpolation
 ![image](https://user-images.githubusercontent.com/93427183/176112256-db09ceb2-7756-4b8a-b4b8-bd960c4eab68.png)
 
+![image](https://user-images.githubusercontent.com/93427183/176113830-4f644785-542b-4f36-a4b3-5357228b1923.png)
+
 
 
 ### Results 
